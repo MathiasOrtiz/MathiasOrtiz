@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**MathiasOrtiz/MathiasOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Mathias Ortiz
 
-Here are some ideas to get you started:
+🎓 **Industrial Engineer & Data Scientist**  
+🧠 Passionate about Machine Learning, Python, SQL & Power BI  
+🔧 Tools I work with:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Some of my favorite projects:
+
+- **[Global Tech Salary 💼](https://github.com/MathiasOrtiz/Global-Tech-Salary)**  
+  Interactive dashboards and neural networks to analyze tech salaries worldwide
+
+- **[Credit Card Approval Prediction 💳](https://github.com/MathiasOrtiz/Credit-Card-Approval-Prediction)**  
+  Machine learning model to predict credit card approval
+
+- **[Customer Purchase Prediction 🛒](https://github.com/MathiasOrtiz/customer-purchase-prediction)**  
+  Predictive model for customer behavior using classification algorithms
+
+- **[Wine Quality Analysis 🍷](https://github.com/MathiasOrtiz/wine-quality-analysis)**  
+  Exploratory analysis and ML models to predict wine quality
+
+---
+
+### 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiasortiz)  
+📧 mathias@email.com
