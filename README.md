@@ -30,4 +30,6 @@
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathiasortiz)  
-📧 mathias@email.com
+📧 ortizmathias77@gmail.com
+
+
