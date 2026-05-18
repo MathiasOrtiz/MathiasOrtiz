@@ -13,6 +13,10 @@
 
 ### 📌 Some of my favorite projects:
 
+
+- **[PowerBI_Databricks_Migration_💼](https://github.com/MathiasOrtiz/PowerBI_Databricks_Migration)**  
+  Advantages of Migration from Power Query (M) to SQL
+  
 - **[Global Tech Salary 💼](https://github.com/MathiasOrtiz/Global-Tech-Salary)**  
   Interactive dashboards and neural networks to analyze tech salaries worldwide
 
