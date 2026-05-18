@@ -15,7 +15,7 @@
 ### 📌 Some of my favorite projects:
 
 
-- **[PowerBI_Databricks_Migration_💼](https://github.com/MathiasOrtiz/PowerBI_Databricks_Migration)  for English version: [PowerBI_Databricks_Migration_English💼](https://github.com/MathiasOrtiz/PowerBI_Databricks_Migration-English-)**  
+- **[PowerBI_Databricks_Migration_💼](https://github.com/MathiasOrtiz/PowerBI_Databricks_Migration). English version: [PowerBI_Databricks_Migration_English💼](https://github.com/MathiasOrtiz/PowerBI_Databricks_Migration-English-)**  
   Advantages of Migration from Power Query (M) to SQL
   
 - **[Global Tech Salary 💼](https://github.com/MathiasOrtiz/Global-Tech-Salary)**  
